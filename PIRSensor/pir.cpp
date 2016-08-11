@@ -5,7 +5,7 @@
  *      Author: trixter93
  */
 #include "pir.h"
-
+//comment
 //set which pin the PIR will attach to
 bool getDriverStatus(gpioName pin){
 	BlackGPIO myGPIO(pin,input);
